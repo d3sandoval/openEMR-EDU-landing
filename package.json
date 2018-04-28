@@ -3,6 +3,9 @@
     "name": "startbootstrap-landing-page",
     "version": "4.0.0",
     "description": "An HTML landing page template built with Bootstrap",
+    "scripts": {
+      "dev": "gulp dev"
+    },
     "keywords": [
         "css",
         "sass",
